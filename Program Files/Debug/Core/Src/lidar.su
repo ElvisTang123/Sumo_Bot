@@ -1,0 +1,4 @@
+../Core/Src/lidar.c:11:6:check_ref_reg	256	static
+../Core/Src/lidar.c:30:6:init_lidar	16	static
+../Core/Src/lidar.c:38:15:setup_lidar_single	128	static
+../Core/Src/lidar.c:78:15:setup_lidar_continuous	128	static

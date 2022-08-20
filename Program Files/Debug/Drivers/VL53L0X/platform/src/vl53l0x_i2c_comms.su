@@ -1,0 +1,8 @@
+../Drivers/VL53L0X/platform/src/vl53l0x_i2c_comms.cpp:9:5:int VL53L0X_write_multi(uint8_t, uint8_t, uint8_t*, uint32_t, I2C_HandleTypeDef*)	104	static
+../Drivers/VL53L0X/platform/src/vl53l0x_i2c_comms.cpp:18:5:int VL53L0X_read_multi(uint8_t, uint8_t, uint8_t*, uint32_t, I2C_HandleTypeDef*)	40	static
+../Drivers/VL53L0X/platform/src/vl53l0x_i2c_comms.cpp:35:5:int VL53L0X_write_byte(uint8_t, uint8_t, uint8_t, I2C_HandleTypeDef*)	32	static
+../Drivers/VL53L0X/platform/src/vl53l0x_i2c_comms.cpp:44:5:int VL53L0X_write_word(uint8_t, uint8_t, uint16_t, I2C_HandleTypeDef*)	32	static
+../Drivers/VL53L0X/platform/src/vl53l0x_i2c_comms.cpp:53:5:int VL53L0X_write_dword(uint8_t, uint8_t, uint32_t, I2C_HandleTypeDef*)	40	static
+../Drivers/VL53L0X/platform/src/vl53l0x_i2c_comms.cpp:66:5:int VL53L0X_read_byte(uint8_t, uint8_t, uint8_t*, I2C_HandleTypeDef*)	40	static
+../Drivers/VL53L0X/platform/src/vl53l0x_i2c_comms.cpp:82:5:int VL53L0X_read_word(uint8_t, uint8_t, uint16_t*, I2C_HandleTypeDef*)	40	static
+../Drivers/VL53L0X/platform/src/vl53l0x_i2c_comms.cpp:104:5:int VL53L0X_read_dword(uint8_t, uint8_t, uint32_t*, I2C_HandleTypeDef*)	48	static

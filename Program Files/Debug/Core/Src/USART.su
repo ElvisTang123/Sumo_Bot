@@ -1,0 +1,4 @@
+../Core/Src/USART.c:10:6:UART_Print_String	120	static
+../Core/Src/USART.c:19:6:UART_Print_Val	120	static
+../Core/Src/USART.c:28:6:UART_MPU6050_ACC	120	static
+../Core/Src/USART.c:58:6:UART_MPU6050_Gyro	120	static
