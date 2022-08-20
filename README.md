@@ -1,7 +1,7 @@
 # Sumo_Bot
 
 # Project Introduction
-Nowadays, people's lifestyle are are getting busier and busier. Thus, having pets like a tank of fish becomes a great way to release the pressure from daily life. However, due to the busyness and the lack of time, people might lose patience in taking care of the fish tank. Hence, having an IoT system that could tell you the real-time data of your fish tank would be truly valuable. What could be better? In this project, we aim to build an aquaponics IoT system that can not only monitor the status of the fish tank but also use the collected data for further actions, such as reusing the tank water to irrigate the plants.<br />
+<br />
 
 # Table of Contents
 * [Accomplishments](#accomplishments)
@@ -13,9 +13,9 @@ Nowadays, people's lifestyle are are getting busier and busier. Thus, having pet
 * [Demonstration](#demonstration)
 
 # Accomplishments
-* Automated the water-changing process and re-uses the water on plants based on the data/metrics collected
-* Designed the sensing and controlling components that use ESP32 as MCU and connect ESP32 to nine different sensors to collect data and make corresponding decisions to achieve automation
-* Enabled real-time monitoring by establishing the network between the sensing/controlling components and WebUI/App (in HTML, CSS, JavaScript, and Cordova) through the server created by ESP32
+* Built a robot with 4 DC motors, 2 light reflect sensors, a laser ToF sensor, an IMU sensor, and a 3D printed shell
+* Designed a PCB board containing voltage regulator, fuse, MCU chip, motor drivers, and voltage monitoring circuit
+
 
 
 # Bill of Materials
