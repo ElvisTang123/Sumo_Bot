@@ -1,7 +1,8 @@
 # Sumo_Bot
 
 # Project Introduction
-<br />
+Sumo Bot is a sport that two robots try to push each other out of the circle arena. In order to push other robot out and keep themselves in the arena, normally there are a few line detect sensors at the bottom of the robot to sense the edge of the arena and couples of distance sensors on the robot to measure their opponents' location.<br />
+In this project, we are going to build a sumo bot from scratch. This includes the PCB design, car shell CAD design, and firmware development for motors, sensors and other electronic components.<br />
 
 # Table of Contents
 * [Accomplishments](#accomplishments)
@@ -15,6 +16,7 @@
 # Accomplishments
 * Built a robot with 4 DC motors, 2 light reflect sensors, a laser ToF sensor, an IMU sensor, and a 3D printed shell
 * Designed a PCB board containing voltage regulator, fuse, MCU chip, motor drivers, and voltage monitoring circuit
+* Developed mannul mode and auto mode for 
 
 
 
