@@ -6,6 +6,7 @@ In this project, we are going to build a sumo bot from scratch. This includes th
 
 # Table of Contents
 * [Accomplishments](#accomplishments)
+* [Mechanical Design](#mechanical-design)
 * [Bill of Materials](#bill-of-materials)
 * [System Structure](#system-structure)
 * [High Level Wiring Diagram](#high-level-wiring-diagram)
@@ -18,7 +19,7 @@ In this project, we are going to build a sumo bot from scratch. This includes th
 * Designed a PCB board containing voltage regulator, fuse, MCU chip, motor drivers, and voltage monitoring circuit
 * Developed mannul mode and auto mode for 
 
-
+# Mechanical Design
 
 # Bill of Materials
 
@@ -36,25 +37,12 @@ In this project, we are going to build a sumo bot from scratch. This includes th
 | MCU | ESP32 |1|
 | MCU | ESP32_CAM |1|
 
-# System Structure
-<p align="center">
-  <img src="Media/System_Structure.jpg" alt="" width="90%"/>
-</p>
 
 # High Level Wiring Diagram
 <p align="center">
-  <img src="Media/ESP32_WiringDiagram.png" alt="" width="90%"/>
+  <img src="Media/High_Level_Wiring_Diagram.png" alt="" width="90%"/>
 </p>
 
-# WebUI
-<p align="center">
-  <img src="Media/WebUI.jpg" alt="" width="90%"/>
-</p>
-
-# Mobile App
-<p align="center">
-  <img src="Media/Mobile_App.jpg" alt="" width="90%"/>
-</p>
 
 # Demonstration
 [![Demo](https://img.youtube.com/vi/_Mge5KiBz2M/0.jpg)](https://www.youtube.com/watch?v=_Mge5KiBz2M&list=PLfsMcIVwDpRSMIsY_dsrct3QpR73TPw5h&index=1&ab_channel=ElvisTang)
