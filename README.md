@@ -38,7 +38,6 @@ In this project, we are going to build a sumo bot from scratch. This includes th
 # Mechanical Design
 <p align="Left">
   <img src="Media/High_Level_Wiring_Diagram.png" alt="" width="90%"/>
-  <img src="Media/High_Level_Wiring_Diagram.png" alt="" width="90%"/>
 </p>
 
 ## High Level Wiring Diagram
