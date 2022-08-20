@@ -40,17 +40,7 @@ In this project, we are going to build a sumo bot from scratch. This includes th
   <img src="Media/High_Level_Wiring_Diagram.png" alt="" width="90%"/>
   <img src="Media/High_Level_Wiring_Diagram.png" alt="" width="90%"/>
 </p>
-<div class="row">
-  <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
+
 ## High Level Wiring Diagram
 <p align="center">
   <img src="Media/High_Level_Wiring_Diagram.png" alt="" width="90%"/>
