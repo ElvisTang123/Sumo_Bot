@@ -9,8 +9,8 @@ In this project, we are going to build a sumo bot from scratch. This includes th
 * [Bill of Materials](#bill-of-materials)
 * [Mechanical Design](#mechanical-design)
 * [PCB Design](#pcb-design)
-* [System Structure](#system-structure)
 * [High Level Wiring Diagram](#high-level-wiring-diagram)
+* [System Structure](#system-structure)
 * [WebUI](#webui)
 * [Mobile App](#mobile-app)
 * [Demonstration](#demonstration)
@@ -37,9 +37,10 @@ In this project, we are going to build a sumo bot from scratch. This includes th
 | MCU | ESP32_CAM |1|
 
 # Mechanical Design
-<p align="Left">
-  <img src="Media/High_Level_Wiring_Diagram.png" alt="" width="90%"/>
-</p>
+The full CAD model for the assembly of the sumo bot can be found in the [CAD folder](https://github.com/ElvisTang123/Sumo_Bot/tree/main/CAD%20Files) under our GitHub Repository.
+<!-- Click [here](Media/Sumo_Bot_CAD_1.png) to see more -->
+| ![](Media/Sumo_Bot_CAD_1.png) | ![](Media/Sumo_Bot_CAD_2.png)|
+| ---------------- | --------------- |
 
 # PCB Design
 
