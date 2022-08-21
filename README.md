@@ -6,8 +6,9 @@ In this project, we are going to build a sumo bot from scratch. This includes th
 
 # Table of Contents
 * [Accomplishments](#accomplishments)
-* [Mechanical Design](#mechanical-design)
 * [Bill of Materials](#bill-of-materials)
+* [Mechanical Design](#mechanical-design)
+* [PCB Design](#pcb-design)
 * [System Structure](#system-structure)
 * [High Level Wiring Diagram](#high-level-wiring-diagram)
 * [WebUI](#webui)
@@ -40,12 +41,13 @@ In this project, we are going to build a sumo bot from scratch. This includes th
   <img src="Media/High_Level_Wiring_Diagram.png" alt="" width="90%"/>
 </p>
 
-## High Level Wiring Diagram
+# PCB Design
+
+# High Level Wiring Diagram
 <p align="center">
   <img src="Media/High_Level_Wiring_Diagram.png" alt="" width="90%"/>
 </p>
 
-# PCB Design
 
 
 
