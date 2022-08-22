@@ -16,23 +16,21 @@ In this project, we are going to build a sumo bot from scratch. This includes th
 * Built a robot with 4 DC motors, 2 light reflect sensors, a laser ToF sensor, an IMU sensor, and a 3D printed shell
 * Designed a PCB board containing voltage regulator, fuse, MCU chip, motor drivers, and voltage monitoring circuit
 * Developed mannul mode (control the robot with remote control) and auto mode (robot's action is based on sensors' data feedback) for sumo bot control
-* Designed the auoto mode algorithms according to the sensors' data feedback in C programming
+* Designed the auto mode algorithms according to the sensors' data feedback in C programming
 
 # Bill of Materials
 
 | Components | Part # | Quantity |
 | :-----------:  | :-----------: |:-----------: |
-| Water Temparature Sensor| DS18B20 | 1 |
-| Water Quality Sensor |TDS Meter V1.0|1|
-| Water Lavel Sensor | HW-038 |1|
-| Soil Moisture Sensor| YL-69 |1|
-|Light Intensity Sensor|Photoresistance|1|
+| DC Motor | 25D HP 12V Metal Gearmotors| 4 |
+| Motor Driver |DRV8800PWP|4|
+| ToF Laser Sensor | VL53L0X |1|
+| Ultrasonic Distance Sensor | HC-SR04 |1|
+| Infrared Reflective Sensor | TCRT5000 |2|
 | Inertial measurement unit | MPU6050 |1|
-| Water Pump (DC 3v ~ 5V) |---|2|
-| Relay (DC 5V) | --- |3|
-| UV Light (DC 5V) | --- |1|
-| MCU | ESP32 |1|
-| MCU | ESP32_CAM |1|
+| Remote Control Receiver | DUMBORC X6F |1|
+| Wheels | JS4311 Aluminum |3|
+| PCB Board | --- |1|
 
 # Mechanical Design
 The full CAD model for the assembly of the sumo bot can be found in the [CAD folder](https://github.com/ElvisTang123/Sumo_Bot/tree/main/CAD%20Files)
