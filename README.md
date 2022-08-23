@@ -1,4 +1,10 @@
-# Sumo_Bot
+<p align="center">
+  <img src="media/1.jpg" alt="" width="70%"/>
+</p>
+
+<div align="center">
+  <h1>Sumo_Bot - Annoying Orange</h1>
+</div>
 
 # Project Introduction
 Sumo Bot is a sport that two robots try to push each other out of the circle arena. In order to push other robot out and keep themselves in the arena, normally there are a few line detect sensors at the bottom of the robot to sense the edge of the arena and couples of distance sensors on the robot to measure their opponents' location.<br />
